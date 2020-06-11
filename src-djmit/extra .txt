@@ -1,0 +1,149 @@
+
+
+
+                 
+                
+
+<div class="container-fluid ">
+      <div class="row">
+                <!-- div 0 starts -->
+                <div class=" height-50 col-md-8 col-lg-9 col-sm-12">
+
+
+                </div>
+                <!-- div 0 ends -->
+
+              <!-- div 1 starts -->
+              <div class=" height-100 col-md-8 col-lg-9 col-sm-12">
+                      <div class="row bg-info w-100 mx-0 text-light justify-content-center rounded p-2">
+                              <h6 class="">Upcoming Events</h6>
+                      </div>
+            
+              </div>
+              <!-- div 1 Ends -->
+
+              <!-- div 2 starts -->
+
+              <div class="col-md-4 col-lg-3 col-sm-12  height-100">
+               <!-- div accordion  starts-->
+
+                <div class="accordion height-40" id="accordionExample">
+                           <!-- card starts -->
+                                 <div class="card ">
+                                        <div class="card-header bg-warning" id="headingOne">
+                                                <h2 class="mb-0">
+                                                <button class="btn btn-link " type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                News/Career
+                                                </button>
+                                                </h2>
+                                        </div>
+                                 </div>
+                        
+                                <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                
+                                                <ul class="list-group list-group-flush">
+                                                        <li class="list-group-item"><a href="">Circular-1</a><span class="badge badge-pill badge-danger">New</span></li>
+                                                        <li class="list-group-item"><a href="">Circular-2</a><span class="badge badge-pill badge-danger">New</span></li>
+                                                        <li class="list-group-item">Circular-3</li>
+                                                        <li class="list-group-item">WICD Women's day 2020</li>
+                                                        <li class="list-group-item">ACCOUNTANT REQUIREMENT-2020</li>
+                                                        <li class="list-group-item">ACCOUNTANT REQUIREMENT-2020</li>
+                                                        <li class="list-group-item">ACCOUNTANT REQUIREMENT-2020</li>
+
+                                                </ul>
+
+                                        </div>
+                                 </div>
+                                           <!-- card ends -->
+
+
+                                           <!-- cards start -->
+                                        <div class="card">
+                                                <div class="card-header" id="headingTwo">
+                                                        <h2 class="mb-0">
+                                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                        Institute Newsletter
+                                                        </button>
+                                                        </h2>
+                                                 </div>
+
+                                        </div>
+
+
+                                         <div class="card">
+                                                <div class="card-header" id="headingTwo">
+                                                        <h2 class="mb-0">
+                                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                        ADMISSION INQUIRY 2020-21 
+                                                        </button>
+                                                        </h2>
+                                                  </div>
+                                         </div>
+
+
+                                        <div class="card">
+                                                <div class="card-header" id="headingThree">
+                                                        <h2 class="mb-0">
+                                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                        DJMIT ALUMINI GUIDE BOOK
+                                                        </button>
+                                                        </h2>
+                                                </div>
+                                         </div>
+
+
+
+                                        <div class="card">
+                                                <div class="card-header" id="headingThree">
+                                                        <h2 class="mb-0">
+                                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                                Place Details
+                                                        </button>
+                                                        </h2>
+                                                </div>
+                                        </div>
+
+                                         <div class="card ">
+                                                <div class="card-header bg-warning" id="headingOne">
+                                                <h2 class="mb-0">
+                                                        <button class="btn btn-link " type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                        Programs & Events
+                                                        </button>
+                                                </h2>
+                                                </div>
+                                         </div>
+                                        <!-- card ends -->
+                                         
+                                        <!-- card starts -->
+                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                                 <div class="card-body">
+                                        
+                                                        <ul class="list-group list-group-flush">
+                                                        <li class="list-group-item"><a href="">Circular-1</a><span class="badge badge-pill badge-danger">New</span></li>
+                                                        <li class="list-group-item"><a href="">Circular-2</a><span class="badge badge-pill badge-danger">New</span></li>
+                                                        <li class="list-group-item">Circular-3</li>
+                                                        <li class="list-group-item">Circular-3.2</li>
+                                                        <li class="list-group-item">Circular-4</li>
+                                                        <li class="list-group-item">Circular-5</li>
+                                                        <li class="list-group-item">Circular-6</li>
+                                
+                                                        </ul>
+                        
+                                                </div>
+
+                                         </div>
+                                           <!-- cards Ends -->
+
+
+                </div>
+                <!-- div accordion  ends-->
+
+
+              </div>
+             <!-- div 2 Ends -->
+  
+       </div> 
+
+
+</div>
